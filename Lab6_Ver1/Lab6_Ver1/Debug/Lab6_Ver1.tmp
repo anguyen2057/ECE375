@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32U4"</DEVICE>
+ <WORKING_DIR>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32u4def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32U4def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\Debug\Lab6_Ver1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab6_Ver1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab6_Ver1.map</FILE>
+  <FILE>Lab6_Ver1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>69</LINE></INIT>
+  <Decrease_Speed><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>225</LINE></Decrease_Speed>
+  <Increase_Speed><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>270</LINE></Increase_Speed>
+  <Full_Speed><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>198</LINE></Full_Speed>
+  <MAIN><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>140</LINE></MAIN>
+  <FUNC><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>158</LINE></FUNC>
+  <Display_Bits><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>175</LINE></Display_Bits>
+  <Done_Inc_Duty><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>236</LINE></Done_Inc_Duty>
+  <Done_Dec_Speed><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>244</LINE></Done_Dec_Speed>
+  <Wait><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>318</LINE></Wait>
+  <Done_Dec_Duty><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>281</LINE></Done_Dec_Duty>
+  <Set_Max_Speed><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>289</LINE></Set_Max_Speed>
+  <Done_Inc_Speed><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>292</LINE></Done_Inc_Speed>
+  <Loop><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>323</LINE></Loop>
+  <OLoop><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>324</LINE></OLoop>
+  <ILoop><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab6_Ver1\Lab6_Ver1\An_Nguyen_Lab6_SourceCode.asm</FILE><LINE>325</LINE></ILoop>
+ </LABELS>
+</ASSEMBLER_INFO>
