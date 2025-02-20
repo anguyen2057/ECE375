@@ -1,0 +1,123 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32U4"</DEVICE>
+ <WORKING_DIR>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32u4def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32U4def.inc</FILE>
+  <FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\Debug\Lab7_Main2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab7_Main2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab7_Main2.map</FILE>
+  <FILE>Lab7_Main2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>94</LINE></INIT>
+  <Input_4><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>241</LINE></Input_4>
+  <Input_7><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>337</LINE></Input_7>
+  <WAIT_1_Half><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>706</LINE></WAIT_1_Half>
+  <USART_Receive><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>417</LINE></USART_Receive>
+  <LCDInit><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>87</LINE></LCDInit>
+  <LCDBacklightOn><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>139</LINE></LCDBacklightOn>
+  <LCDClr><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>203</LINE></LCDClr>
+  <Begin><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>191</LINE></Begin>
+  <MAIN><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>182</LINE></MAIN>
+  <STRING_START1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>782</LINE></STRING_START1>
+  <CopyToSRAM><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>761</LINE></CopyToSRAM>
+  <STRING_START2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>784</LINE></STRING_START2>
+  <LCDWrite><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>156</LINE></LCDWrite>
+  <Game_Start><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>215</LINE></Game_Start>
+  <STRING_START3><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>786</LINE></STRING_START3>
+  <LETGO><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>233</LINE></LETGO>
+  <Count_Down><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>681</LINE></Count_Down>
+  <PD4_DISABLED><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>323</LINE></PD4_DISABLED>
+  <CONTINUE><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>249</LINE></CONTINUE>
+  <ROCK1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>273</LINE></ROCK1>
+  <PAPER1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>287</LINE></PAPER1>
+  <SCISSORS1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>301</LINE></SCISSORS1>
+  <STRING_ROCK_0><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>791</LINE></STRING_ROCK_0>
+  <DONE1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>317</LINE></DONE1>
+  <STRING_PAPER_1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>793</LINE></STRING_PAPER_1>
+  <STRING_SCISSORS_2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>795</LINE></STRING_SCISSORS_2>
+  <USART_Transmit><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>387</LINE></USART_Transmit>
+  <PD7_ALREADY_PRESSED><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>373</LINE></PD7_ALREADY_PRESSED>
+  <NEXT><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>356</LINE></NEXT>
+  <STRING_START4><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>788</LINE></STRING_START4>
+  <NEXT2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>366</LINE></NEXT2>
+  <IS_DISABLED1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>406</LINE></IS_DISABLED1>
+  <IS_DISABLED><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>447</LINE></IS_DISABLED>
+  <NOT_READY><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>446</LINE></NOT_READY>
+  <Display_Top_Choices><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>462</LINE></Display_Top_Choices>
+  <PRINT_ROCK><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>476</LINE></PRINT_ROCK>
+  <PRINT_PAPER><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>485</LINE></PRINT_PAPER>
+  <PRINT_SCISSORS><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>494</LINE></PRINT_SCISSORS>
+  <END_CHOICE1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>502</LINE></END_CHOICE1>
+  <Display_Bottom_Choices><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>516</LINE></Display_Bottom_Choices>
+  <PRINT_ROCK1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>529</LINE></PRINT_ROCK1>
+  <PRINT_PAPER1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>539</LINE></PRINT_PAPER1>
+  <PRINT_SCISSORS1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>548</LINE></PRINT_SCISSORS1>
+  <END_CHOICE2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>556</LINE></END_CHOICE2>
+  <Continue1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>566</LINE></Continue1>
+  <COMPARE_RPS><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>592</LINE></COMPARE_RPS>
+  <Continue2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>578</LINE></Continue2>
+  <DISPLAY_DRAW><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>642</LINE></DISPLAY_DRAW>
+  <CHECK_ROCK><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>607</LINE></CHECK_ROCK>
+  <CHECK_PAPER><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>612</LINE></CHECK_PAPER>
+  <CHECK_SCISSORS><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>617</LINE></CHECK_SCISSORS>
+  <DISPLAY_WIN><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>622</LINE></DISPLAY_WIN>
+  <DISPLAY_LOSE><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>632</LINE></DISPLAY_LOSE>
+  <STRING_WIN><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>797</LINE></STRING_WIN>
+  <END_COMPARE><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>651</LINE></END_COMPARE>
+  <STRING_LOSE><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>799</LINE></STRING_LOSE>
+  <STRING_DRAW><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>801</LINE></STRING_DRAW>
+  <Display_Bits><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>664</LINE></Display_Bits>
+  <TIMER_CONTINUE><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>744</LINE></TIMER_CONTINUE>
+  <DONE2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>752</LINE></DONE2>
+  <STRING_END><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\main.asm</FILE><LINE>803</LINE></STRING_END>
+  <LCDDelay><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>517</LINE></LCDDelay>
+  <LCD_Internal_WriteCMD><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>501</LINE></LCD_Internal_WriteCMD>
+  <LCDBacklightOff><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>147</LINE></LCDBacklightOff>
+  <LCDWrLn1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>165</LINE></LCDWrLn1>
+  <LCDWrLn2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>184</LINE></LCDWrLn2>
+  <LCD_Internal_WriteLn><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>353</LINE></LCD_Internal_WriteLn>
+  <LCDClrLn1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>268</LINE></LCDClrLn1>
+  <LCDClrLn2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>281</LINE></LCDClrLn2>
+  <CLRDM1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>214</LINE></CLRDM1>
+  <CLRloop1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>225</LINE></CLRloop1>
+  <CLRDM2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>242</LINE></CLRDM2>
+  <CLRloop2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>253</LINE></CLRloop2>
+  <LCD_Internal_ClearLn><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>445</LINE></LCD_Internal_ClearLn>
+  <Bin2ASCII><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>300</LINE></Bin2ASCII>
+  <B2A_1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>313</LINE></B2A_1>
+  <B2A_3><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>323</LINE></B2A_3>
+  <B2A_2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>319</LINE></B2A_2>
+  <div10><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>540</LINE></div10>
+  <FontBitmap><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>609</LINE></FontBitmap>
+  <LCD_WL_display_bank><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>373</LINE></LCD_WL_display_bank>
+  <LCD_WL_next_char><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>386</LINE></LCD_WL_next_char>
+  <LCD_WL_next_col><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>399</LINE></LCD_WL_next_col>
+  <LCD_WL_wait_spi><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>404</LINE></LCD_WL_wait_spi>
+  <LCD_WL_all_done><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>426</LINE></LCD_WL_all_done>
+  <LCD_CLRLN_clear_bank><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>454</LINE></LCD_CLRLN_clear_bank>
+  <LCD_CLRLN_write_col><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>469</LINE></LCD_CLRLN_write_col>
+  <LCD_CLRLN_wait_spi><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>471</LINE></LCD_CLRLN_wait_spi>
+  <LCD_CLRLN_all_done><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>485</LINE></LCD_CLRLN_all_done>
+  <LCD_IWC_L1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>506</LINE></LCD_IWC_L1>
+  <LCDDelay_L1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>521</LINE></LCDDelay_L1>
+  <LCDDelay_L2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>523</LINE></LCDDelay_L2>
+  <div10_1><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>579</LINE></div10_1>
+  <div10_2><FILE>C:\Users\anguy\Documents\Atmel Studio\7.0\Lab7_Main2\Lab7_Main2\LCDDriver.asm</FILE><LINE>586</LINE></div10_2>
+ </LABELS>
+</ASSEMBLER_INFO>
